@@ -44,10 +44,9 @@ EOF
 
     # Print the advertisement using printf
     printf "${GREEN}"
-    printf "🚀 THIS SCRIPT IS PROUDLY CREATED BY **GA CRYPTO**! 🚀\n"
     printf "Stay connected for updates:\n"
-    printf "   • Telegram: https://t.me/GaCryptOfficial\n"
-    printf "   • X (formerly Twitter): https://x.com/GACryptoO\n"
+    printf "   • Telegram: https://t.me/uangdrop\n"
+    printf "   • X (formerly Twitter): https://x.com/uangdrop\n"
     printf "${RESET}"
 
     # Privanetix Node Setup Script
