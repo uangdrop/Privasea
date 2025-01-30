@@ -4,7 +4,7 @@
 
 1️⃣ Run this command to set up your Node:  
 ```shell
-curl -O https://raw.githubusercontent.com/uangdrop/Privasea/refs/heads/main/Privasea.sh && chmod +x Privasea.sh && ./Privasea_GA.sh  
+curl -O https://raw.githubusercontent.com/uangdrop/Privasea/refs/heads/main/Privasea.sh && chmod +x Privasea.sh && ./Privasea.sh  
 ```
 
 #### Save your Node Address & Visit: https://deepsea-beta.privasea.ai/overview  
