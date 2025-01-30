@@ -30,3 +30,6 @@ https://github.com/user-attachments/assets/53e4ce95-eb11-4fc4-8afb-bd4b5e599126
 #### Once your node show like this You can Close your VPS & let it keep running ✅ 
 ![image](https://github.com/user-attachments/assets/30750e4c-40f0-4038-a553-6ce3103e6833)
 
+
+#### Go to https://t.me/uangdrop/37165 to Video Tutorials
+![image](https://github.com/user-attachments/assets/372ab225-ba67-4feb-8fee-644c2cae0c82)
