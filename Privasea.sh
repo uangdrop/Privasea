@@ -4,8 +4,6 @@
 while true; do
     printf "\n"
     cat <<EOF
-
-
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░    
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░   
@@ -23,15 +21,14 @@ while true; do
     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
                                                                                                                       
                                                                                                                     
+
 EOF
 
     printf "\n\n"
 
     ##########################################################################################
     #                                                                                        
-    #                          
-    #                                                                                        
-    #   🌐 Join our revolution in decentralized networks and crypto innovation!               
+    #   🌐 Join our revolution in decentralized networks and crypto innovation!              
     #                                                                                        
     # 📢 Stay updated:                                                                      
     #     • Follow us on Telegram: https://t.me/uangdrop                             
@@ -60,12 +57,12 @@ EOF
     fi
 
     # Add Docker's official GPG key using gpg and store it in the trusted keyring directory
-echo "🔑 Adding Docker's GPG key..."
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | gpg --dearmor -o /etc/apt/trusted.gpg.d/docker-archive.gpg
-if [ $? -ne 0 ]; then
-    echo "❌ Error: Adding Docker GPG key failed. Retrying..."
-    continue
-fi
+    echo "🔑 Adding Docker's GPG key..."
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | gpg --dearmor -o /etc/apt/trusted.gpg.d/docker-archive.gpg
+    if [ $? -ne 0 ]; then
+        echo "❌ Error: Adding Docker GPG key failed. Retrying..."
+        continue
+    fi
 
     # Add Docker's official repository
     echo "📦 Adding Docker repository..."
