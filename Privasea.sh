@@ -29,13 +29,13 @@ EOF
 
     ##########################################################################################
     #                                                                                        
-    #                🚀 THIS SCRIPT IS PROUDLY CREATED BY **GA CRYPTO**! 🚀                  
+    #                          
     #                                                                                        
     #   🌐 Join our revolution in decentralized networks and crypto innovation!               
     #                                                                                        
     # 📢 Stay updated:                                                                      
-    #     • Follow us on Telegram: https://t.me/GaCryptOfficial                             
-    #     • Follow us on X: https://x.com/GACryptoO                                         
+    #     • Follow us on Telegram: https://t.me/uangdrop                             
+    #     • Follow us on X: https://x.com/uangdrop                                         
     ##########################################################################################
 
     # Green color for advertisement
